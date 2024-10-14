@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    background-color: #A6A6A6;
+    background-color: white;
     border-radius: 10px;
     padding: 20px;
     text-align: center;
@@ -27,14 +27,14 @@ body {
     margin-bottom: 10px;
 }
 
-h2 {
-    color: black;
+h4 {
+    color: #2285a5;
     margin: 10px 0;
     margin-bottom: 20px;
 }
 
 p {
-    color: black;
+    color: #2285a5;
     font-size: 14px;
 }
 
@@ -45,7 +45,7 @@ p {
 .social-buttons a {
     display: block;
     text-decoration: none;
-    color: black;
+    color: white;
     background-color: #3fb1a4;
     padding: 15px;
     border-radius: 5px;
